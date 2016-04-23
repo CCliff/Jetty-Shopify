@@ -1,0 +1,12 @@
+---
+:api_key: fe984e10ae52ef6661a76c56fab47f25
+:password: 3f50ca0f683c19425fdb76e66469da0c
+:store: jettylife.myshopify.com
+:theme_id: 
+:whitelist_files:
+- layout/
+- assets/
+- config/
+- snippets/
+- templates/
+- locales/
